@@ -1,4 +1,4 @@
-# persistenceOfMemory
+# persistenceOfMemory virtual museum
 
 ## Used p5.js + ascii art
 
