@@ -1,0 +1,21 @@
+html, body {
+  background-color: aliceblue;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+canvas {
+  display: block;
+}
+
+h3 {
+  background: 'black';
+  background: linear-gradient(to right, #000000 0%, #d2d2d2 88%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
